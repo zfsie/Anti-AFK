@@ -1,0 +1,7 @@
+discord
+sys
+time
+os
+colorama
+requests
+pytz
