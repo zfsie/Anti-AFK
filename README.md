@@ -6,4 +6,4 @@ Anti-Vamp Method otw kids
 ![image](https://user-images.githubusercontent.com/82001648/115130751-1896b800-9fc0-11eb-9169-b4476bd3cc56.png)
 
 # Developer(s)
-zlud
+Uud
