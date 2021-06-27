@@ -34,7 +34,7 @@ def OnOpen():
                         {Fore.MAGENTA}├─┤│││ │ │  ├─┤├┤ ├┴┐  │  ├─┤├┤ │  ├┴┐
                         {Fore.LIGHTWHITE_EX}┴ ┴┘└┘ ┴ ┴  ┴ ┴└  ┴ ┴  └─┘┴ ┴└─┘└─┘┴ ┴
 {Fore.MAGENTA}                        ┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
-                    {Fore.WHITE}               Created By: {Fore.MAGENTA}Zlud
+                    {Fore.WHITE}               Created By: {Fore.MAGENTA}Zordo
                               {Fore.WHITE}Enter Your {Fore.MAGENTA}Token{Fore.WHITE} To Continue
                         {Fore.MAGENTA}┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
 ''')
@@ -52,7 +52,7 @@ def start():
 {Fore.MAGENTA}        ├─┤│││ │ │  ├─┤├┤ ├┴┐  │  ├─┤├┤ │  ├┴┐
 {Fore.WHITE}        ┴ ┴┘└┘ ┴ ┴  ┴ ┴└  ┴ ┴  └─┘┴ ┴└─┘└─┘┴ ┴
 {Fore.MAGENTA}          ┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
-{Fore.WHITE}                    Dev: {Fore.MAGENTA}Zlud
+{Fore.WHITE}                    Dev: {Fore.MAGENTA}Zordo
 {Fore.WHITE}                    Login:{Fore.MAGENTA}[{Fore.WHITE}{bot.user.name}{Fore.MAGENTA}#{Fore.WHITE}{bot.user.discriminator}{Fore.MAGENTA}]
 {Fore.WHITE}                    Response:{Fore.MAGENTA}[{Fore.WHITE}{responsez}{Fore.MAGENTA}]
 {Fore.WHITE}                    Delay:{Fore.MAGENTA}[{Fore.WHITE}{delaybz}{Fore.MAGENTA}]{Fore.WHITE} Sec
@@ -61,7 +61,7 @@ def start():
 
 @bot.event
 async def on_ready():
-    os.system(f'title [Anti AFK] - Zlud')
+    os.system(f'title [Anti AFK] - Zordo')
     clear()
     start()
 
